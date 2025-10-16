@@ -4,6 +4,13 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-orange?logo=scikitlearn)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+## 👩‍💻 Author  
+
+**Shrutika Paradkar**  
+📍 *Data Scientist | Python | Machine Learning | Power BI | SQL*  
+
+##### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shrutika-paradkar-778a02219/)  
+##### 💻 [GitHub Profile](https://github.com/ShrutikaParadkar)
 ---
 
 ## 📘 Project Overview
