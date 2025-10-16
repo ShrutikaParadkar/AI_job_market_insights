@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-orange?logo=scikitlearn)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
